@@ -19,7 +19,7 @@ function calculate() {
 
 currencyOne.addEventListener("change", calculate);
 amountOne.addEventListener("input", calculate);
-currencyTwo.addEventListener("change", calculate);
+currencyTwo.addE-----------------ventListener("change", calculate);
 amountTwo.addEventListener("input", calculate);
 currencyOne.addEventListener("change", calculate);
 amountOne.addEventListener("input", calculate);
